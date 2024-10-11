@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rama Bhargavi Vempolu</h1>
-<h3 align="center">A passionate Software Developer from US</h3>
+<h3 align="center">A passionate Data Engineer from US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabhargavivempolu&label=Profile%20views&color=0e75b6&style=flat" alt="ramabhargavivempolu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramabhargavivempolu" alt="ramabhargavivempolu" /></a> </p>
 
-- 🌱 I’m currently learning **Spring, Spring Boot, .NET, C #**
+- 🌱 I’m currently learning **.NET, C #**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, SQL**
 
 - 📫 How to reach me **vempoluramabhargavi99@gmail.com**
 
